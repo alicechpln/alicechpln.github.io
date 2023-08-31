@@ -52,7 +52,7 @@ let arraySpecialChars = specialChars1.concat(specialChars2, specialChars3, speci
 
 
 
-var fontSize = 130;
+var fontSize = 60;
 
 $("#fontSize").on('input', function(){
    fontSize = $("#fontSize").val();
